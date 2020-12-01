@@ -622,6 +622,7 @@ h3 :not(.contact-container h3) {
   background-color: #f92a9185;
   border-radius: 5%;
   margin: 5vh 15vh 0 15vh;
+  z-index: 2;
 }
 .contact-container h3 {
   font-size: 1vw;
